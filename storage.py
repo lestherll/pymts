@@ -17,8 +17,8 @@ Before converting a file:
 3. convert file and save directory, filename, and extension
 """
 
-import sqlite3
 import hashlib
+import sqlite3
 
 conn = sqlite3.connect(":memory:")
 

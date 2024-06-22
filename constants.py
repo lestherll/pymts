@@ -1,6 +1,5 @@
 from pathlib import Path
 
-
 AVCHD_UTIL_HOME = Path.home() / ".avchd_util"
 # AVCHD_UTIL_HOME.mkdir(parents=True)
 
